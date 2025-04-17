@@ -1,4 +1,4 @@
-# impact-of-esg-scores-on-stock-volatility
+#impact-of-esg-scores-on-stock-volatility
 #project focused on ESG (Environmental, Social, and Governance) Scores and their Impact on Stock Volatility. The key goal is to understand how ESG ratings influence the volatility of stocks and explore investment strategies that leverage ESG data for improved performance.
 
 Key Components of the Project:
